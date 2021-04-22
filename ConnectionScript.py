@@ -18,7 +18,7 @@ banner = '''
  \____\___/|_| \_|_| \_|_____\____| |_| \___/|_| \_\
 													
 version : 1.0
-author : Mahdi AWADA
+author : Mahdi Awada
 Email : mahdiawada127001@gmail.com
 
 note ! we don't accept donation under 100$ 
