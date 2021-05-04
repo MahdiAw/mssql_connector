@@ -68,10 +68,10 @@ def main():
 	print_help()
 	
 	#server info for data base connection 
-	server = 'SQL5071.site4now.net'
-	database = 'DB_A721D6_mdsfvaccine'
-	username = 'DB_A721D6_mdsfvaccine_admin'
-	password = 'P@ssw0rd@123'
+	server =   #server 
+	database = #database name
+	username = #username
+	password = #password 
 	con_string = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password
 	print(con_string)
 	cnx = connect_to_db(con_string)
